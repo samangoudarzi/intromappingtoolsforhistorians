@@ -1,7 +1,7 @@
 ## Workshop: Georeferencing Historical Maps using Map Warper
-*By saman goudarzi (cartogrpahic resources librarian, Mills Memorial Library)*
+*By saman goudarzi (cartographic resources librarian, Mills Memorial Library)*
 
-This is the accompanying workshop to the **Friendly Introduction to Print & Digital Carto Resources for Historians** instructional session. You can download the session slides [here]().
+This is an accompanying workshop to the **Friendly Introduction to Print & Digital Carto Resources for Historians** instructional session. You can download the session slides [here]().
 
 # Workshop Objectives
 
