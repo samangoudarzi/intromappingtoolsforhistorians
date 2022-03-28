@@ -34,5 +34,5 @@ Add at least 5-6 control points to your historical image. Keep in mind that good
 
 Congrats on georeferencing your first map! Having learned this new skill means that you can now bring historic cartographic resources into the present context and explore them in new ways.
 
-If you have any questions or would like to learn more about other digital scholarship tools for historical research, contact [me](emailto:s.g.goudarzi@gmail.com) or  McMaster's [Maps, Data, GIS Centre](https://library.mcmaster.ca/spaces/maps-data-gis).
+If you have any questions or would like to learn more about other digital scholarship tools for historical research, [contact me directly](mailto:s.g.goudarzi@gmail.com) or  McMaster's [Maps, Data, GIS Centre](https://library.mcmaster.ca/spaces/maps-data-gis).
 
