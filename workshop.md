@@ -30,6 +30,7 @@ Add at least 5-6 control points to your historical image. Keep in mind that good
 
 ## Step 6: Save your newly georeferenced map and share it with the rest of the class
 
+
 # Conclusion
 
 Congrats on georeferencing your first map! Having learned this new skill means that you can now bring historic cartographic resources into the present context and explore them in new ways.
