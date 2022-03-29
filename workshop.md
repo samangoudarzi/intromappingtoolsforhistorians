@@ -26,7 +26,7 @@ Things to keep in mind when decision-making:
 
 ## Step 5: Georeference your map
 
-Add at least 5-6 control points to your historical image. Keep in mind that good control points are stable locations or landmarks that would not have changed during the time period between your chosen historical map and the contemporary web map (road intersections are an especially great). 
+Add at least 5-6 control points to your historical image. Keep in mind that good control points are stable locations or landmarks that would not have changed during the time period between your chosen historical map and the contemporary web map (road intersections are especially great). 
 
 ## Step 6: Save your newly georeferenced map and share it with the rest of the class
 
